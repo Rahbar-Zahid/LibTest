@@ -1,0 +1,142 @@
+Folder PATH listing
+Volume serial number is 1C1D-294A
+C:\Users\Zainab\StudioProjects\flutter_application_1\lib
+|   chatbot.dart
+|   chatbot_responses.dart
+|   firebase_options.dart
+|   job_form.dart
+|   main.dart
+|   project_structure.txt
+|   search.dart
+|   
+----bars
+|       appbar.dart
+|       bottom_nav.dart
+|       customscrollview.dart
+|       mobileappbar.dart
+|       webappbar.dart
+|       
+----customer_support
+|   |   help_articles.dart
+|   |   learning.dart
+|   |   
+|   ----webinars
+|           webinars.dart
+|           
+----drawer
+|       about_us.dart
+|       drawer.dart
+|       reviews.dart
+|       services.dart
+|       
+----layouts
+|   ----contact_Us
+|   |       contact_us_mobile.dart
+|   |       contact_us_web.dart
+|   |       
+|   ----news_Events
+|   |       news_events_mobile_layout.dart
+|   |       news_events_web_layout.dart
+|   |       
+|   ----webinar_layouts
+|           webinars_mobile_layout.dart
+|           webinars_web_layout.dart
+|           
+----lrf_pages
+|       aa3.dart
+|       abldr_2.dart
+|       ar_3.dart
+|       laserpointer.dart
+|       ldr_4n.dart
+|       
+----models
+|       blog_post_model.dart
+|       contact_form_base.dart
+|       intern.dart
+|       webinar.dart
+|       
+----product_pages
+|       lrf.dart
+|       surveillance.dart
+|       tankapc.dart
+|       weaponsights.dart
+|       
+----providers
+|       data_provider.dart
+|       
+----services
+|       chatbot_logic.dart
+|       file_reader.dart
+|       
+----src
+|   ----authentication
+|       ----controllers
+|       |       login_controller.dart
+|       |       signup_controller.dart
+|       |       
+|       ----exceptions
+|       |       signup_email_password_failure.dart
+|       |       
+|       ----models
+|       |       user.dart
+|       |       
+|       ----repository
+|       |       authentication_repository.dart
+|       |       user_repository.dart
+|       |       
+|       ----screens
+|               login_screen.dart
+|               signup-screen.dart
+|               
+----surveillance_pages
+|       abtiq_640.dart
+|       alharis_75.dart
+|       faod.dart
+|       hmd_1.dart
+|       tib786_1.dart
+|       tib786_3.dart
+|       
+----tabs
+|       career.dart
+|       contact_us.dart
+|       customer_support_tab.dart
+|       home.dart
+|       internship_program.dart
+|       news_events.dart
+|       products.dart
+|       tabs_config.dart
+|       
+----tankapc_pages
+|       absar_c.dart
+|       absar_d.dart
+|       
+----weaponsights_pages
+|       qanis_1.dart
+|       tisa_506a.dart
+|       tisa_506b.dart
+|       
+----widgets
+    |   back.dart
+    |   chatbot_widget.dart
+    |   custom_header.dart
+    |   quote.dart
+    |   webinfotab.dart
+    |   
+    ----contactUs
+    |       address_card_with_map.dart
+    |       contact_card.dart
+    |       contact_form.dart
+    |       contact_form_mobile.dart
+    |       contact_form_web.dart
+    |       
+    ----newsEvents
+    |       blog_post_container.dart
+    |       blog_post_container_mobile.dart
+    |       blog_post_container_web.dart
+    |       blog_post_detail_page.dart
+    |       
+    ----Webinars
+            webinar_card.dart
+            webinar_card_mobile.dart
+            webinar_card_web.dart
+            
