@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../models/intern.dart';
 // import '../widgets/webinfotab.dart'; // Adjust the import path as needed
 
-import 'lib/widgets/webinfotab.dart';
+import '../widgets/webinfotab.dart';
 
 
 class InternsScreen extends StatefulWidget {
