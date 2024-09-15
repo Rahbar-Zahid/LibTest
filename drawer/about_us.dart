@@ -87,7 +87,7 @@ class AboutUsPageState extends State<AboutUsPage> {
                 const SizedBox(height:30),
                 _buildTeamSection(context),
                 const SizedBox(height:50),
-                const WebInfoTab(),
+                const webinfotab(),
                 const SizedBox(height:50),
               ],
             ),

@@ -134,11 +134,11 @@ class NewsEventsWebLayout extends StatelessWidget {
         const SliverToBoxAdapter(
           child: SizedBox(height: 50.0), // Adjust height as needed
         ),
-        // Add WebInfoTab
+        // Add webinfotab
         const SliverToBoxAdapter(
-          child: WebInfoTab(),
+          child: webinfotab(),
         ),
-        // Add SizedBox below WebInfoTab
+        // Add SizedBox below webinfotab
         const SliverToBoxAdapter(
           child: SizedBox(height: 50.0), // Adjust height as needed
         ),

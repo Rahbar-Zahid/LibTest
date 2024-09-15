@@ -10,7 +10,8 @@ import '../product_pages/tankapc.dart';
 import '../drawer/services.dart';
 import 'package:visibility_detector/visibility_detector.dart';
 
-import '../widgets/WebInfoTab.dart';
+// import '../widgets/webinfotab.dart';
+
 
 class Tab1Content extends StatefulWidget {
   const Tab1Content({super.key});

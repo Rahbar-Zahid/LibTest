@@ -77,7 +77,7 @@ class FixedDrawer extends StatelessWidget {
             onTap: () => _handleNavigation(context, 'Reviews'),
           ),
           const SizedBox(height:50),
-          const WebInfoTab(),
+          const webinfotab(),
         ],
       ),
     );

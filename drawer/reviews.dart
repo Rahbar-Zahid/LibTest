@@ -29,7 +29,7 @@ class ReviewsPage extends StatelessWidget {
       ),
       backgroundColor: Colors.white,
 
-      // Add WebInfoTab at the bottom if on the web
+      // Add webinfotab at the bottom if on the web
       body: const Column(
         children: [
           Expanded(
@@ -37,7 +37,7 @@ class ReviewsPage extends StatelessWidget {
               child: Text('Reviews Page Content Here'),
             ),
           ),
-          if (kIsWeb) WebInfoTab(), // Only include this if on the web
+          if (kIsWeb) webinfotab(), // Only include this if on the web
           SizedBox(height:50),
         ],
       ),

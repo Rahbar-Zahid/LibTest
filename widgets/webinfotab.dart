@@ -13,8 +13,8 @@ import '../tabs/contact_us.dart';
 import '../tabs/home.dart';
 import '../tabs/products.dart';
 
-class WebInfoTab extends StatelessWidget {
-  const WebInfoTab({super.key});
+class webinfotab extends StatelessWidget {
+  const webinfotab({super.key});
 
   @override
   Widget build(BuildContext context) {

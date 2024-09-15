@@ -121,7 +121,7 @@ class _ServicesPageState extends State<ServicesPage> {
               index: 6,
             ),
             const SizedBox(height:50),
-            const WebInfoTab(),
+            const webinfotab(),
             const SizedBox(height:50),
           ],
         ),

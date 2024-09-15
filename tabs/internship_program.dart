@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 
 import '../models/intern.dart';
-import '../widgets/WebInfoTab.dart'; // Adjust the import path as needed
+// import '../widgets/webinfotab.dart'; // Adjust the import path as needed
+
+import 'lib/widgets/webinfotab.dart';
+
 
 class InternsScreen extends StatefulWidget {
   const InternsScreen({super.key});
@@ -144,7 +147,7 @@ class InternsScreenState extends State<InternsScreen> {
             ),
 
             const SizedBox(height: 50),
-            const WebInfoTab(),
+            const webinfotab(),
             const SizedBox(height: 50),
           ],
         ),

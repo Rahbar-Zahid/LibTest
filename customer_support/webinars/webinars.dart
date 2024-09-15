@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import '../../models/webinar.dart';
-import '../../widgets/WebInfoTab.dart';
+import '../../widgets/webinfotab.dart';
 import '../../widgets/custom_header.dart';
 import '../../widgets/Webinars/webinar_card.dart';
 
@@ -95,7 +95,7 @@ class WebinarsPage extends StatelessWidget {
             child: SizedBox(height: 50.0), // Adjust height as needed
           ),
           const SliverToBoxAdapter(
-            child: WebInfoTab(),
+            child: webinfotab(),
           ),
           const SliverToBoxAdapter(
             child: SizedBox(height: 50.0), // Adjust height as needed
